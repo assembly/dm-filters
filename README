@@ -1,0 +1,6 @@
+dm-filters
+==========
+
+Filter those queries before they hit the database. Basically built so that I could put access and permission logic within the model cleanly.
+
+Read the specs for usage.
